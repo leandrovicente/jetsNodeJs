@@ -1,0 +1,19 @@
+{
+  "name": "jetsNodeJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leandrovicente/jetsNodeJs.git",
+  "author": "leandrovicente <leandro.vicente98@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "sequelize-cli": "^6.2.0"
+  }
+}
